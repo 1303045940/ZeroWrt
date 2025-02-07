@@ -63,7 +63,7 @@ jobs:
         name: U-Boot-mt798x
         allowUpdates: true
         tag: U-Boot-mt798x
-        commit: master
+        commit: main
         replacesArtifacts: true
         token: ${{ secrets.ACCESS_TOKEN }}
         artifacts: |
